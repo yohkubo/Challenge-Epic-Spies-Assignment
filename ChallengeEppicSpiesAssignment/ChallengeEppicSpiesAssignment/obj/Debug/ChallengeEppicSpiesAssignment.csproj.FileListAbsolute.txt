@@ -1,0 +1,9 @@
+C:\Users\windows7\Desktop\Practice_C#\Challenge-Epic-Spies-Assignment\ChallengeEppicSpiesAssignment\ChallengeEppicSpiesAssignment\bin\ChallengeEppicSpiesAssignment.dll.config
+C:\Users\windows7\Desktop\Practice_C#\Challenge-Epic-Spies-Assignment\ChallengeEppicSpiesAssignment\ChallengeEppicSpiesAssignment\bin\ChallengeEppicSpiesAssignment.dll
+C:\Users\windows7\Desktop\Practice_C#\Challenge-Epic-Spies-Assignment\ChallengeEppicSpiesAssignment\ChallengeEppicSpiesAssignment\bin\ChallengeEppicSpiesAssignment.pdb
+C:\Users\windows7\Desktop\Practice_C#\Challenge-Epic-Spies-Assignment\ChallengeEppicSpiesAssignment\ChallengeEppicSpiesAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\windows7\Desktop\Practice_C#\Challenge-Epic-Spies-Assignment\ChallengeEppicSpiesAssignment\ChallengeEppicSpiesAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\windows7\Desktop\Practice_C#\Challenge-Epic-Spies-Assignment\ChallengeEppicSpiesAssignment\ChallengeEppicSpiesAssignment\obj\Debug\ChallengeEppicSpiesAssignment.csprojResolveAssemblyReference.cache
+C:\Users\windows7\Desktop\Practice_C#\Challenge-Epic-Spies-Assignment\ChallengeEppicSpiesAssignment\ChallengeEppicSpiesAssignment\obj\Debug\ChallengeEppicSpiesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\windows7\Desktop\Practice_C#\Challenge-Epic-Spies-Assignment\ChallengeEppicSpiesAssignment\ChallengeEppicSpiesAssignment\obj\Debug\ChallengeEppicSpiesAssignment.dll
+C:\Users\windows7\Desktop\Practice_C#\Challenge-Epic-Spies-Assignment\ChallengeEppicSpiesAssignment\ChallengeEppicSpiesAssignment\obj\Debug\ChallengeEppicSpiesAssignment.pdb
